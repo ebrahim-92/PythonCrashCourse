@@ -1,5 +1,3 @@
-# Try it yourself section of Variables and Simple Data Types chapter
-
 # Simple Message 2.1
 
 var1 = "Python is fun"
@@ -10,3 +8,10 @@ var2 = "Python is fun"
 var2 = "Learning it is easy"
 
 print(var2)
+
+name = "ada lovelace"
+print(name.title())
+
+name = "Ada Lovelace"
+print(name.upper())
+print(name.lower())
