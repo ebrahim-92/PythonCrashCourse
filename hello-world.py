@@ -1,3 +1,3 @@
-# First pringt statement
+# First print statement
 
-print("Hellow World!")
+print("Hello World!")
