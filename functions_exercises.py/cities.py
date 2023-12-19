@@ -1,8 +1,6 @@
-# Cities 8.5
+# Cities 8.5 edited for 8.16
 
-def describe_city(city, country = "Iraq"):
-    """Display city and country."""
-    print(f"\nThe city {city.title()} is in {country.title()}")
+from cities_functions import *
 
 describe_city("basrah")
 describe_city("baghdad")
