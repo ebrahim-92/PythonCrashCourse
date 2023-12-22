@@ -1,4 +1,0 @@
-I like programming. 
-I like creating videogames. 
-I also like finding meaning in large datasets. 
-I like creating apps tha can run in a browser. 
